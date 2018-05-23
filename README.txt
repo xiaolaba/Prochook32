@@ -1,3 +1,28 @@
+## 2018-MAY-23, xiaolaba test
+### Tools:
+Visual Studio community 2017, download,
+https://www.visualstudio.com/zh-hant/downloads/
+
+### Install tools:
+very straight fofrward, download and install process, select every options
+
+### Compile the project
+download this project as zip, upzip to folder, i.e. \Prochook32\
+double click on Prochook32.sln
+it will says somethong update project / platform...
+then build the project, exe will be there, \Prochook32\x86\Debug\Prochook32.exe
+
+### run the program
+double click on Prochook32.exe
+something like this,
+![xiaolaba-test-32BitHookDLL.JPG](xiaolaba-test-32BitHookDLL.JPG)
+
+
+
+
+
+
+----------------------------------
 32-Bit Windows Prochook Example
 
 by William Mortl
