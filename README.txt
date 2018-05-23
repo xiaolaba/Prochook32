@@ -15,7 +15,7 @@ then build the project, exe will be there, \Prochook32\x86\Debug\Prochook32.exe
 ### run the program
 double click on Prochook32.exe
 something like this,
-![xiaolaba-test-32BitHookDLL.JPG](xiaolaba-test-32BitHookDLL.JPG)
+![xiaolaba-test-32BitHookDLL.JPG](https://github.com/xiaolaba/Prochook32/blob/xiaolaba-test/xiaolaba-test-32BitHookDLL.JPG)
 
 
 
